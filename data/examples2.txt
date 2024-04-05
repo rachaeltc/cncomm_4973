@@ -30,7 +30,7 @@ CONTEXT: You are attending a Chinese wedding and the bride's family welcomes you
 Bride's family: We are so happy you could be here.
 Response: Thank you for inviting me. It's an honor to celebrate this special occasion with you.
 
-13. CONTEXT: You are visiting a Chinese temple and a monk offers you a blessing.
+CONTEXT: You are visiting a Chinese temple and a monk offers you a blessing.
 Monk: May blessings be upon you.
 Response: Thank you for your kind words. I am grateful for your blessings.
 
@@ -51,11 +51,11 @@ Friend: I can help you plan your trip.
 Response: Thank you for your offer. I appreciate your assistance.
 
 18. CONTEXT: You are working on a group project with Chinese classmates and there is a difference in opinions on the best approach.
-Classmate: I think we should consider another strategy.
+Classmate: I think this may not be the ideal approach, can we discuss alternatives?
 Response: Thank you for sharing your perspective. Let's discuss how we can find a middle ground.
 
 19. CONTEXT: You are attending a Chinese martial arts class and your instructor gives you personal feedback on your form.
-Instructor: Your movements are improving, keep practicing.
+Instructor: Your movements are improving!
 Response: Thank you for your guidance. I will continue to work on my form.
 
 20. CONTEXT: You are collaborating with a Chinese organization on a charity event and they express gratitude for your contributions.
@@ -382,245 +382,241 @@ Response: Hello, your child is making good progress. Let's collaborate to ensure
 Team Member: Hi, how did I contribute to the project?
 Response: Hi, your contribution was valuable. Let's review the project together and explore areas for growth.
 
-1. CONTEXT: You are at a family gathering speaking to your aunt who seems tired.
-   Aunt: Hello dear.
-   Response: Hello Auntie, I noticed you seem a bit fatigued. Is there anything I can assist you with?
+CONTEXT: You are at a family gathering speaking to your aunt who seems tired.
+Aunt: Hello dear.
+Response: Hello Auntie, how are you feeling today? Is there anything I can help you with?
 
 2. CONTEXT: You are at a business meeting with your Chinese colleagues, discussing a project.
-   Colleague: Good morning!
-   Response: Good morning. I appreciate your contributions to the project. Perhaps we could consider some additional ideas for improvement.
+Colleague: Good morning!
+Response: Good morning. I appreciate your contributions to the project. Perhaps we could consider some additional ideas for improvement.
 
 3. CONTEXT: You are at a friend's house for dinner, and they ask for feedback on the meal.
-   Friend: How was the food?
-   Response: The food was delicious, but I wonder if it could be seasoned a bit more. 
+Friend: How was the food?
+Response: The food was delicious, but I wonder if it could be seasoned a bit more. 
 
 4. CONTEXT: You are at a tea ceremony with your Chinese teacher who seems distracted.
-   Teacher: Welcome!
-   Response: Thank you for the tea ceremony. Is there anything on your mind that you would like to discuss?
+Teacher: Welcome!
+Response: Thank you for the tea ceremony. Is there anything on your mind that you would like to discuss?
 
 5. CONTEXT: You are with your elderly Chinese neighbor who is struggling with gardening.
-   Neighbor: Good day!
-   Response: Good day. I noticed you could use some help with the garden. Would you like me to assist you?
+Neighbor: Good day!
+Response: Good day. How is your gardening going today? Would you like me to assist you?
 
 6. CONTEXT: You are at a social event where a friend's Chinese parent is sharing a personal story.
-   Parent: Greetings!
-   Response: Greetings. Your story is inspiring. Is there a specific message you would like to convey through it?
+Parent: Greetings!
+Response: Greetings. Your story is inspiring. Is there a specific message you would like to convey through it?
 
 7. CONTEXT: You are with a Chinese business partner discussing a deal, and they seem hesitant.
-   Partner: How are you?
-   Response: I'm well, thank you. I sense some hesitation in our discussion. Is there a concern you would like to address?
+Partner: How are you?
+Response: I'm well, thank you. I sense some hesitation in our discussion. Is there a concern you would like to address?
 
 8. CONTEXT: You are at a Chinese cultural event where an artist is showcasing their work.
-   Artist: Hello there!
-   Response: Hello. Your artwork is fascinating. Is there a deeper meaning behind this piece?
+Artist: Hello there!
+Response: Hello. Your artwork is fascinating. Is there a deeper meaning behind this piece?
 
 9. CONTEXT: You are with your elderly Chinese grandmother who is struggling to remember things.
-   Grandmother: Hi dear!
-   Response: Hi Grandma. I understand you may have difficulty remembering. Is there anything you need help with?
+Grandmother: Hi dear!
+Response: Hi Grandma. I understand you may have difficulty remembering. Is there anything you need help with?
 
 10. CONTEXT: You are at a family dinner, and your Chinese parents cook a meal that is slightly overcooked.
-    Parent: Welcome home!
-    Response: Thank you for the meal. I appreciate the effort. Perhaps next time we could adjust the cooking time a bit.
+Parent: Welcome home!
+Response: Thank you for the meal. I appreciate the effort. Perhaps next time we could adjust the cooking time a bit.
 
 11. CONTEXT: You are at a Chinese friend's wedding, and they ask for your opinion on their wedding dress.
-    Friend: How do I look?
-    Response: You look stunning in your dress. Have you considered adding a subtle accessory to enhance the look?
+Friend: How do I look?
+Response: You look stunning in your dress. Have you considered adding a subtle accessory to enhance the look?
 
 12. CONTEXT: You are at a work meeting with your Chinese team, and they present an idea that needs improvement.
-    Team member: Good morning!
-    Response: Good morning. Your idea is creative. How about we refine it further to make it even more impactful?
-
-13. CONTEXT: You are at a Chinese neighbor's home for a meal and notice they are running low on groceries.
-    Neighbor: Welcome!
-    Response: Thank you for the delicious meal. I noticed you might need some groceries. Would you like me to bring you some supplies?
+Team member: Good morning!
+Response: Good morning. Your idea is creative. How about we refine it further to make it even more impactful?
 
 14. CONTEXT: You are at a Chinese colleague's farewell party and they ask for feedback on their time at the company.
-    Colleague: Hello!
-    Response: Hello. Your contributions at the company have been valued. Is there a particular aspect you would like feedback on?
+Colleague: Hello!
+Response: Hello. Your contributions at the company have been valued. Is there a particular aspect you would like feedback on?
 
 15. CONTEXT: You are at a cultural event where a Chinese speaker is sharing their insights on traditional music.
-    Speaker: Greetings!
-    Response: Greetings. Your knowledge of traditional music is admirable. Could you elaborate on the significance of a specific instrument?
+Speaker: Greetings!
+Response: Greetings. Your knowledge of traditional music is admirable. Could you elaborate on the significance of a specific instrument?
 
 16. CONTEXT: You are at a tea ceremony and notice your Chinese friend is looking a bit stressed.
-    Friend: Good day!
-    Response: Good day. I sense some tension. Is there anything on your mind that you would like to share?
+Friend: Good day!
+Response: Good day. Is everything going okay? Is there anything on your mind that you would like to share?
 
 17. CONTEXT: You are at a family gathering, and your Chinese cousin is struggling with a decision.
-    Cousin: Hi there!
-    Response: Hi. I noticed you seem unsure about something. Would you like to discuss it together?
+Cousin: Hi there!
+Response: Hi, is everything going ok? Would you like to discuss it together?
 
 18. CONTEXT: You are with your Chinese grandparents, and they ask for your opinion on a family matter.
-    Grandparent: How do you feel about this?
-    Response: Your perspective is valuable. Could we explore different viewpoints to understand this situation better?
+Grandparent: How do you feel about this?
+Response: Your perspective is valuable. Could we explore different viewpoints to understand this situation better?
 
 19. CONTEXT: You are at a Chinese friend's art exhibit, and they ask for your interpretation of their paintings.
-    Artist: Hello!
-    Response: Hello. Your artwork is thought-provoking. How do you intend for viewers to connect with your pieces?
+Artist: Hello!
+Response: Hello. Your artwork is thought-provoking. How do you intend for viewers to connect with your pieces?
 
 20. CONTEXT: You are at a work meeting with your Chinese colleagues, and they present a proposal that needs refinement.
-    Colleague: Greetings!
-    Response: Greetings. Your proposal is promising. Perhaps we could dive deeper into certain aspects to enhance its effectiveness.
+Colleague: Greetings!
+Response: Greetings. Your proposal is promising. Perhaps we could dive deeper into certain aspects to enhance its effectiveness.
 
 21. CONTEXT: You are at a social event where a Chinese elder shares a folk story with a lesson.
-    Elder: How are you all doing?
-    Response: We are well, thank you. Your story carries wisdom. Could you elaborate on the moral behind it?
+Elder: How are you all doing?
+Response: We are well, thank you. Your story carries wisdom. Could you elaborate on the moral behind it?
 
 22. CONTEXT: You are at a family dinner, and your Chinese parents prepare a dish that is too spicy.
-    Parent: Welcome home!
-    Response: Thank you for the meal. The dish is flavorful, but maybe we can adjust the level of spices next time.
+Parent: Welcome home!
+Response: Thank you for the meal. The dish is flavorful, but maybe we can adjust the level of spices next time.
 
 23. CONTEXT: You are at a Chinese wedding, and the couple asks for your opinion on the ceremony.
-    Couple: How was the wedding?
-    Response: The wedding was beautiful. Is there a particular aspect you would like feedback on for future celebrations?
+Couple: How was the wedding?
+Response: The wedding was beautiful. Is there a particular aspect you would like feedback on for future celebrations?
 
 24. CONTEXT: You are at a work meeting with your Chinese team, and they suggest a strategy that needs tweaking.
-    Team member: Hi there!
-    Response: Hi. Your strategy shows promise. How about refining certain details to align it more closely with our goals?
+Team member: Hi there!
+Response: Hi. Your strategy shows promise. How about refining certain details to align it more closely with our goals?
 
 25. CONTEXT: You are at a Chinese neighbor's gathering, and they express concern about their health.
-    Neighbor: Good day!
-    Response: Good day. I sense your worry about your health. Would you like to discuss potential ways to improve it?
+Neighbor: Good day!
+Response: Good day. I sense your worry about your health. Would you like to discuss potential ways to improve it?
 
 26. CONTEXT: You are at a colleague's farewell party, and they seek your opinion on their contributions.
-    Colleague: Hello!
-    Response: Hello. Your impact at the company has been significant. Is there a specific area you would like feedback on?
+Colleague: Hello!
+Response: Hello. Your impact at the company has been significant. Is there a specific area you would like feedback on?
 
 27. CONTEXT: You are at a cultural event where a Chinese performer showcases a traditional dance.
-    Performer: Greetings!
-    Response: Greetings. Your dance is mesmerizing. Could you explain the story or inspiration behind this choreography?
+Performer: Greetings!
+Response: Greetings. Your dance is mesmerizing. Could you explain the story or inspiration behind this choreography?
 
 28. CONTEXT: You are at a tea ceremony and notice your Chinese friend is lost in deep thought.
-    Friend: Good day!
-    Response: Good day. I see you are contemplative. Is there anything you would like to share or discuss?
+Friend: Good day!
+Response: Good day. I see you are contemplative. Is there anything you would like to share or discuss?
 
 29. CONTEXT: You are at a family gathering, and your Chinese cousin seems uncertain about a decision.
-    Cousin: Hi there!
-    Response: Hi. I sense your hesitation. Would you like to talk through your thoughts and considerations?
+Cousin: Hi there!
+Response: Hi. I sense your hesitation. Would you like to talk through your thoughts and considerations?
 
 30. CONTEXT: You are with your Chinese grandparents, and they seek your perspective on a family tradition.
-    Grandparent: How do you view this tradition?
-    Response: Your insight is valued. Could we explore the significance and evolution of this tradition together?
+Grandparent: How do you view this tradition?
+Response: Your insight is valued. Could we explore the significance and evolution of this tradition together?
 
 31. CONTEXT: You are at a Chinese friend's art exhibition and they ask for your analysis of their sculptures.
-    Artist: Hello!
-    Response: Hello. Your sculptures are captivating. How do you wish viewers to interpret the emotions they evoke?
+Artist: Hello!
+Response: Hello. Your sculptures are captivating. How do you wish viewers to interpret the emotions they evoke?
 
 32. CONTEXT: You are at a work meeting with your Chinese colleagues, and they propose a plan that requires adjustment.
-    Colleague: Greetings!
-    Response: Greetings. Your plan is innovative. Perhaps we could discuss potential refinements to enhance its effectiveness.
+Colleague: Greetings!
+Response: Greetings. Your plan is innovative. Perhaps we could discuss potential refinements to enhance its effectiveness.
 
 33. CONTEXT: You are at a social event where a Chinese elder imparts wisdom through a story.
-    Elder: How are you all doing?
-    Response: We are well, thank you. Your story holds great depth. Could you further elaborate on the lessons it conveys?
+Elder: How are you all doing?
+Response: We are well, thank you. Your story holds great depth. Could you further elaborate on the lessons it conveys?
 
 34. CONTEXT: You are at a family dinner, and your Chinese parents serve a dish that is too salty.
-    Parent: Welcome home!
-    Response: Thank you for the meal. The dish is rich in flavor, but perhaps a slight adjustment in saltiness would enhance it.
+Parent: Welcome home!
+Response: Thank you for the meal. The dish is rich in flavor, but perhaps a slight adjustment in saltiness would enhance it.
 
 35. CONTEXT: You are at a Chinese wedding, and the couple requests your feedback on the ceremony.
-    Couple: How did you find the wedding?
-    Response: The wedding was delightful. Is there a specific aspect you would like feedback on for future reference?
+Couple: How did you find the wedding?
+Response: The wedding was delightful. Is there a specific aspect you would like feedback on for future reference?
 
 36. CONTEXT: You are at a work meeting with your Chinese team, and they present an idea that shows potential for improvement.
-    Team member: Hello!
-    Response: Hello. Your idea has promise. How about we collaborate to refine certain aspects for better outcomes?
+Team member: Hello!
+Response: Hello. Your idea has promise. How about we collaborate to refine certain aspects for better outcomes?
 
 37. CONTEXT: You are at a Chinese neighbor's gathering, and they express uncertainty about a decision.
-    Neighbor: Good day!
-    Response: Good day. I sense your hesitation. Would you like to discuss the factors influencing your decision-making?
+Neighbor: Good day!
+Response: Good day. I sense your hesitation. Would you like to discuss the factors influencing your decision-making?
 
 38. CONTEXT: You are at a colleague's farewell party, and they invite opinions on their contributions to the team.
-    Colleague: Hello!
-    Response: Hello. Your contributions have been valuable. Is there a particular area you would like feedback or thoughts on?
+Colleague: Hello!
+Response: Hello. Your contributions have been valuable. Is there a particular area you would like feedback or thoughts on?
 
 39. CONTEXT: You are at a cultural event where a Chinese performer showcases a traditional song.
-    Performer: Greetings!
-    Response: Greetings. Your song is soul-stirring. Could you shed light on the emotions and themes behind the lyrics?
+Performer: Greetings!
+Response: Greetings. Your song is soul-stirring. Could you shed light on the emotions and themes behind the lyrics?
 
 40. CONTEXT: You are at a tea ceremony and notice your Chinese friend appears preoccupied.
-    Friend: Good day!
-    Response: Good day. I notice you seem preoccupied. Is there something on your mind that you would like to share or discuss?
+Friend: Good day!
+Response: Good day. How are you doing? Is there anything I can help you with?
 
 41. CONTEXT: You are at a family gathering, and your Chinese cousin seems hesitant about a decision.
-    Cousin: Hi there!
-    Response: Hi. I sense your uncertainty. Would you like to share your thoughts and explore potential solutions together?
+Cousin: Hi there!
+Response: Hi. I sense your uncertainty. Would you like to share your thoughts and explore potential solutions together?
 
 42. CONTEXT: You are with your Chinese grandparents, and they seek your understanding of a family tradition.
-    Grandparent: What are your thoughts on this tradition?
-    Response: Your perspective is insightful. Shall we delve deeper into the roots and significance of this tradition together?
+Grandparent: What are your thoughts on this tradition?
+Response: Your perspective is insightful. Shall we delve deeper into the roots and significance of this tradition together?
 
 43. CONTEXT: You are at a Chinese friend's art exhibition, and they request your interpretation of their paintings.
-    Artist: Hello!
-    Response: Hello. Your paintings are intriguing. How do you intend for viewers to connect with the stories behind your art?
+Artist: Hello!
+Response: Hello. Your paintings are intriguing. How do you intend for viewers to connect with the stories behind your art?
 
 44. CONTEXT: You are at a work meeting with your Chinese colleagues, and they propose a plan that requires adjustment.
-    Colleague: Greetings!
-    Response: Greetings. Your plan is creative. How about we discuss potential modifications to ensure its successful implementation?
+Colleague: Greetings!
+Response: Greetings. Your plan is creative. How about we discuss potential modifications to ensure its successful implementation?
 
 45. CONTEXT: You are at a social event where a Chinese elder imparts wisdom through a story.
-    Elder: How are you all doing?
-    Response: We are well, thank you. Your story resonates deeply. Could you elaborate on the teachings and values it imparts?
+Elder: How are you all doing?
+Response: We are well, thank you. Your story resonates deeply. Could you elaborate on the teachings and values it imparts?
 
 46. CONTEXT: You are at a family dinner, and your Chinese parents serve a dish that is too spicy.
-    Parent: Welcome home!
-    Response: Thank you for the meal. The dish is flavorful, but perhaps adjusting the spice level slightly would enhance its taste.
+Parent: Welcome home!
+Response: Thank you for the meal. The dish is flavorful, but perhaps adjusting the spice level slightly would enhance its taste.
 
 47. CONTEXT: You are at a Chinese wedding, and the couple requests your feedback on the ceremony.
-    Couple: How did you find the wedding?
-    Response: The wedding was lovely. Is there a specific element you would appreciate feedback on for potential improvements?
+Couple: How did you find the wedding?
+Response: The wedding was lovely. Is there a specific element you would appreciate feedback on for potential improvements?
 
 48. CONTEXT: You are at a work meeting with your Chinese team, and they present an idea that shows potential for refinement.
-    Team member: Hello!
-    Response: Hello. Your idea has merit. How about we collaborate to enhance certain aspects for better results?
+Team member: Hello!
+Response: Hello. Your idea has merit. How about we collaborate to enhance certain aspects for better results?
 
 49. CONTEXT: You are at a Chinese neighbor's gathering, and they express uncertainty about a decision.
-    Neighbor: Good day!
-    Response: Good day. I sense your indecision. Would you like to discuss potential options and weigh the pros and cons together?
+Neighbor: Good day!
+Response: Good day. I sense your indecision. Would you like to discuss potential options and weigh the pros and cons together?
 
 50. CONTEXT: You are at a colleague's farewell party, and they invite opinions on their contributions to the team.
-    Colleague: Hello!
-    Response: Hello. Your contributions have been valuable. Is there a specific area where you seek feedback or insights?
+Colleague: Hello!
+Response: Hello. Your contributions have been valuable. Is there a specific area where you seek feedback or insights?
 
 1. CONTEXT: You are a manager in a company, discussing a project with a Chinese employee who has made mistakes in the past.
-   Employee: Hi, do you have a moment?
-   Response: Hello, I appreciate your hard work on the project. Have you considered different approaches for the next steps?
+Employee: Hi, do you have a moment?
+Response: Hello, I appreciate your hard work on the project. Have you considered different approaches for the next steps?
 
 2. CONTEXT: You are a teacher talking to a Chinese student who has not been performing well in class.
-   Student: Teacher, I think I need help understanding this topic.
-   Response: Hello, I see you're putting effort into your studies. Perhaps reviewing the material more thoroughly could be helpful.
+Student: Teacher, I think I need help understanding this topic.
+Response: Hello, I see you're putting effort into your studies. Perhaps reviewing the material more thoroughly could be helpful.
 
 3. CONTEXT: You are a friend comforting another Chinese friend who is going through a difficult time.
-   Friend: Hi, I've been feeling down lately.
-   Response: Hello, I'm here for you. Have you thought about seeking professional help to talk about your feelings?
+Friend: Hi, I've been feeling down lately.
+Response: Hello, I'm here for you. Have you thought about seeking professional help to talk about your feelings?
 
 4. CONTEXT: You are speaking to a Chinese colleague who is always late for meetings.
-   Colleague: Hi, sorry I'm late again.
-   Response: Hello, I appreciate your contributions to the team. Have you considered setting reminders to help with punctuality?
+Colleague: Hi, sorry I'm late again.
+Response: Hello, I appreciate your contributions to the team. Have you considered setting reminders to help with punctuality?
 
 5. CONTEXT: You are discussing travel plans with a Chinese acquaintance who seems unsure about their preferences.
-   Acquaintance: Hello, I'm not sure where I want to go on vacation.
-   Response: Hello, I understand you want a memorable trip. Have you thought about exploring different destinations to find what resonates with you?
+Acquaintance: Hello, I'm not sure where I want to go on vacation.
+Response: Hello, I understand you want a memorable trip. Have you thought about exploring different destinations to find what resonates with you?
 
 6. CONTEXT: You are a mentor talking to a junior Chinese employee who lacks confidence in their work.
-   Employee: Hi, I'm not sure if I'm doing well in this project.
-   Response: Hello, I see your dedication to the project. Have you considered showcasing your strengths more in your work?
+Employee: Hi, I'm not sure if I'm doing well in this project.
+Response: Hello, I see your dedication to the project. Have you considered showcasing your strengths more in your work?
 
 7. CONTEXT: You are a family member discussing financial matters with your elderly Chinese parents.
-   Parent: Hi, we're worried about our investments.
-   Response: Hello, I respect your concerns. Have you considered seeking advice from a financial advisor for more clarity?
+Parent: Hi, we're worried about our investments.
+Response: Hello, I respect your concerns. Have you considered seeking advice from a financial advisor for more clarity?
 
 8. CONTEXT: You are a doctor speaking to a Chinese patient who is not following medical advice.
-   Patient: Doctor, I haven't been taking my medication regularly.
-   Response: Hello, I appreciate your honesty. Have you considered setting reminders or discussing any concerns you have about the medication?
+Patient: Doctor, I haven't been taking my medication regularly.
+Response: Hello, I appreciate your honesty. Have you considered setting reminders or discussing any concerns you have about the medication?
 
 9. CONTEXT: You are a tour guide talking to a group of Chinese tourists who seem unsure about the itinerary.
-   Tourist: Hello, we're not sure if we want to visit this attraction.
-   Response: Hello, I understand the importance of your experience. Have you thought about exploring other options to make the most of your trip?
+Tourist: Hello, we're not sure if we want to visit this attraction.
+Response: Hello, I understand the importance of your experience. Have you thought about exploring other options to make the most of your trip?
 
 10. CONTEXT: You are discussing career goals with a Chinese friend who is hesitant about pursuing a new opportunity.
-    Friend: Hi, I'm not sure if I should apply for this job.
-    Response: Hello, I admire your consideration. Have you thought about the growth potential this opportunity could offer?
+Friend: Hi, I'm not sure if I should apply for this job.
+Response: Hello, I admire your consideration. Have you thought about the growth potential this opportunity could offer?
 
 1. CONTEXT: You are at a family dinner with your Chinese grandparents. 
 Grandmother: This soup is a bit cold.
@@ -792,7 +788,7 @@ Response: Thank you for the meal, Grandmother. It was very delicious.
 
 3. CONTEXT: You are speaking to your elderly Chinese neighbor who has been having trouble with their garden.
 Neighbor: Hello there.
-Response: Hello, I noticed your garden needs some maintenance. Would you like some help with it?
+Response: Hello, how is your garden progressing? Would you like some help with it?
 
 4. CONTEXT: You are meeting with a Chinese elder at a social event who is discussing their recent travels.
 Elder: I just returned from my trip.
@@ -945,23 +941,23 @@ Response: Your fond memories remind us of the importance of family, Relative.
 1. CONTEXT: You are a teacher speaking to a senior parent during a parent-teacher conference. The parent is concerned about their child's grades.
 Parent: Good afternoon.
 Response: Good afternoon. Your child has been making progress, and there are areas we can work on together.
- 
+
 2. CONTEXT: You are a tour guide showing an elderly Chinese couple around a historical site. They seem to be tired and might need a break.
 Elderly Couple: We're enjoying the tour.
 Response: I'm glad you're enjoying the tour. Let's take a moment to rest here and appreciate the view.
- 
+
 3. CONTEXT: You are a manager giving feedback to an older Chinese employee on their presentation skills.
 Employee: Hello.
 Response: Hello, your presentation was informative. However, there are some points that could be further enhanced. 
- 
+
 4. CONTEXT: You are a salesperson assisting an elderly Chinese customer in a store who is having difficulty deciding on a purchase.
 Elderly Customer: I'm not sure which one to choose.
 Response: I understand it can be a tough decision. Let me provide you with more information to help you make the best choice.
- 
+
 5. CONTEXT: You are a medical professional speaking to an older Chinese patient who might not fully understand the treatment plan.
 Elderly Patient: Can you explain that again?
 Response: Of course, I will do my best to make sure you understand the treatment plan completely.
- 
+
 6. CONTEXT: You are a colleague discussing a project with an older Chinese peer who might need extra guidance.
 Colleague: Good morning.
 Response: Good morning. Let's go over the project together and address any areas that need clarification.
@@ -1041,7 +1037,7 @@ Response: Setting realistic goals is important. Let's work together to create a 
 25. CONTEXT: You are a teacher guiding an older Chinese student through an assignment that requires critical thinking.
 Student: This is challenging.
 Response: Critical thinking can be challenging but rewarding. Let's break down the assignment step by step to make it more manageable.
- 
+
 26. CONTEXT: You are a librarian recommending books to an elderly Chinese patron who enjoys mystery novels.
 Patron: I'm looking for a new read.
 Response: Mystery novels are always intriguing. Let's explore some recommendations together to find the perfect book for you.
