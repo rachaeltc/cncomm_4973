@@ -421,3 +421,63 @@ Response: Good afternoon, Mrs. Wu. Would you like me to chat with you about othe
 CONTEXT: You are a caregiver in a nursing home, and you notice Mr. Shen seems hesitant to ask for help with personal grooming.
 Mr. Shen: Hello!
 Response: Hello, Mr. Shen. Is there any specific grooming assistance you need today?
+
+CONTEXT: You are a caregiver in a nursing home, conversing with an elderly Chinese resident, Mr. Wang. You notice he seems a bit downcast.
+Mr. Wang: Good morning.
+Response: Good morning, Mr. Wang. I hope you're feeling well today. Is there anything you would like to talk about?
+
+CONTEXT: You are a caregiver in a nursing home, talking to Mrs. Chen, who has been missing her family lately.
+Mrs. Chen: Hello there.
+Response: Hello, Mrs. Chen. Would you like me to help arrange a call with your family? It's been a while since we last did that.
+
+CONTEXT: You are a caregiver in a nursing home, engaging with Mr. Liu, who hasn't been sleeping well.
+Mr. Liu: Hi.
+Response: Hi, Mr. Liu. How has your rest been recently? Is there anything bothering you?
+
+CONTEXT: You are a caregiver in a nursing home, chatting with Mrs. Wu, who has been skipping her daily walks.
+Mrs. Wu: Good afternoon.
+Response: Good afternoon, Mrs. Wu. How is it going recently? Are your daily walks going well?
+
+CONTEXT: You are a caregiver in a nursing home, conversing with Mr. Zhang, who has been neglecting his medication.
+Mr. Zhang: Hello.
+Response: Hello, Mr. Zhang. How has your medication been? Is there anything I can do to help make things easier for you?
+
+CONTEXT: You are a caregiver in a nursing home, interacting with Mrs. Sun, who hasn't been participating in group activities.
+Mrs. Sun: Good morning.
+Response: Good morning, Mrs. Sun. How have the group activities been going for you lately? Is there anything I can help with?
+
+CONTEXT: You are a caregiver in a nursing home, conversing with an elderly Chinese resident, Mr. Wang, who appears withdrawn.
+Mr. Wang: Good morning.
+Response: Good morning, Mr. Wang. How are you feeling today?
+
+CONTEXT: You are a caregiver in a nursing home, speaking with Mrs. Chen, who has been spending more time in her room.
+Mrs. Chen: Hello there.
+Response: Hello, Mrs. Chen. I hope you're finding comfort in your space. Is there anything you need?
+
+CONTEXT: You are a caregiver in a nursing home, engaging with Mr. Liu, who hasn't been sleeping well.
+Mr. Liu: Hi.
+Response: Hi, Mr. Liu. How was your rest last night? If there's anything bothering you, feel free to share.
+
+CONTEXT: You are a caregiver in a nursing home, conversing with Mrs. Wu, who has been hesitant to join group activities.
+Mrs. Wu: Good afternoon.
+Response: Good afternoon, Mrs. Wu. I hope you're having a pleasant day. Is there anything specific you'd like to do today?
+
+CONTEXT: You are a caregiver in a nursing home, interacting with Mr. Zhang, who has been avoiding his medication.
+Mr. Zhang: Hello.
+Response: Hello, Mr. Zhang. How are you today? Did you remember to take your medication today? 
+
+CONTEXT: You are a caregiver in a nursing home, conversing with Mrs. Sun, who has been retreating to her room.
+Mrs. Sun: Good morning.
+Response: Good morning, Mrs. Sun. How have you been feeling lately? Is there anything you'd like assistance with?
+
+CONTEXT: You are a caregiver in a nursing home, engaging with Mrs. Hu, who has been declining meals.
+Mrs. Hu: Hello.
+Response: Hello, Mrs. Hu. How have your meals been lately? Would you like something specific for your meal?
+
+CONTEXT: You are a caregiver in a nursing home, conversing with Mr. Liu, who has been isolating himself.
+Mr. Liu: Good afternoon.
+Response: Good afternoon, Mr. Liu. How's your day been so far? Is there anything you'd like to talk about?
+
+CONTEXT: You are a caregiver in a nursing home, talking to Mrs. Zhang, who has been avoiding interaction with other residents.
+Mrs. Zhang: Hi there.
+Response: Hi, Mrs. Zhang. It's nice to see you. How have you been feeling lately?

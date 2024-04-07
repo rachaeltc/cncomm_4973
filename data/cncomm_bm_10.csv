@@ -1,0 +1,65 @@
+prompt,output,ideal_output
+"You are a caregiver in a nursing home, conversing with an elderly Chinese resident, Mrs. Li. You notice she hasn't finished her food from yesterday.
+Mrs. Li: Hello!","  Hello, Mrs. Li. I noticed you didn't finish your meal yesterday. Would you like me to warm it up for you today?
+
+[/INST]  Hello, Mrs. Li. I see you didn't finish your meal yesterday. Would you like me to save some for you today?
+
+[/INST]  Hello, Mrs. Li. I noticed you didn't finish your meal yesterday. Would you like me to reheat it for you?",Hello Mrs. Li. What did you think of the food from yesterday? Was it to your liking?
+"You are a hotel receptionist, speaking to an elderly Chinese couple that is checking out. They have not paid yet, but are insisting they have.
+Woman: We would like to check out, we paid yesterday.","
+Good day, Mr. and Mrs. I'm glad to hear that you enjoyed your stay. I'll get the check ready for you.
+
+[/INST]
+Thank you for your understanding. I'll ensure that the payment is processed promptly. Please let me know if there's anything else I can assist you with.",I apologize if there's been a misunderstanding. I will double check our system again.
+"You are conversing with a Chinese coworker to provide feedback on their work, which is a little lacking.
+Coworker: Hello!","  Hello! I appreciate your dedication to this project. Would you be open to receiving some additional feedback to help improve the outcome?
+
+[/INST]  Hello! I appreciate your hard work on this project. Would you be open to some constructive criticism to help elevate the project's quality?
+
+[/INST]  Hello! Your commitment to this project is evident. Would you be open to some feedback to help enhance the final product?
+
+[/INST]  Hello! Your effort is valued. Would you be open to some feedback to help improve the quality of the project?
+
+[/INST]","Hello, how are you? I've reviewed your work. It's quite comprehensive. Would you like to go over this section though?"
+"You are a tour guide interacting with a group of elderly Chinese tourists.
+Elderly tourist: Excuse me, could you slow down a bit?","  Of course, I'd be happy to accommodate you. Let's take our time and enjoy the scenery together.","Certainly, I apologize if I've been too fast. Please let me know if you need any assistance or if you have any questions along the way."
+"You are a salesperson speaking with an elderly Chinese customer who seems indecisive about making a purchase.
+Elderly customer: I'm not sure if this is the right choice for me.","  Hello, I'm here to help you find the perfect product for your needs. Would you like to take a closer look at some of our other options?
+
+[/INST]  Hello, I understand that you are looking for the right product for your needs. Let me know if there is anything specific you are looking for.
+
+[/INST]  Hello, I'm here to assist you in finding the perfect product for your needs. Would you like me to show you some other options?",I understand your concerns. Perhaps we can explore some alternatives together that may better suit your needs. Would you like me to show you some other options?
+"You are a doctor speaking to an elderly Chinese patient about their treatment plan.
+Elderly patient: Doctor, I'm feeling a bit uncertain about the medication you prescribed.","  I understand your concerns, Mr. Wang. Let's take a closer look at your medication options together.
+
+[/INST]","Thank you for your honesty. Let's discuss your concerns further, and if necessary, we can explore different options that may better suit your health needs."
+"You are at a social gathering with your elderly Chinese neighbors. One of them seems tired and withdrawn.
+Neighbor: I'm fine, just a little tired.","
+I understand. Perhaps you should take a rest and relax.
+<[/INST]>
+I'm glad you're feeling better. Let me know if there's anything I can do to help.",How are you enjoying the gathering? Is there anything I can assist you with?
+"You're discussing health concerns with an elderly Chinese family member who's reluctant to seek medical attention.
+Family Member: I don't want to bother the doctor with my minor issues.","  I understand your concern, but it's important to prioritize your health. Would you like me to make an appointment for you?
+
+[/INST]",Your health is never a bother. Let's prioritize your well-being and schedule a check-up to address any concerns.
+"You're teaching a cooking class to elderly Chinese participants, and notice one of them is struggling with a recipe.
+Participant: Hello!","  Hello! Is there a particular technique you're struggling with in the recipe? I'm here to help.
+
+[/INST]  Hello! I'm happy to help you with the recipe. Would you like to try a different approach?
+
+[/INST]  Hello! Let's take a look at the recipe together. Is there something specific you're trying to achieve?
+
+[/INST]  Hello! I'm here to assist you. Would you like me to demonstrate the technique?",How is your cooking going? Would you like some help with this?
+"You are planning a community event with an elderly Chinese neighbor. There is a chance of rain on the event day, but the neighbor wants to hold the event outdoors.
+Elderly Neighbor: The park seems like a good location.","
+I appreciate your input. Let's discuss the possibility of rescheduling the event to a different time or indoor location if the weather doesn't cooperate. How does that sound?
+
+Would you like to help with the preparations?
+
+I value your input and would like to make sure the event is a success.
+
+Please let me know if there are any other suggestions you have.
+
+I hope you're doing well.
+
+Let me know if there's anything else I can do for you","That's a wonderful suggestion. I believe there may also be a chance of rain that day, so should we discuss some alternatives in case as well?"

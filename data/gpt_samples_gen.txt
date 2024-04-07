@@ -574,3 +574,158 @@ CONTEXT: You are a manager giving feedback to an Chinese employee who made a mis
 Employee: I'm really sorry about that.
 Response: Thank you for owning up to it. Would you like to discuss how we should proceed?
 
+CONTEXT: You are a friend comforting a Chinese friend who is going through a difficult time.
+Friend: Hi, I've been feeling really down lately.
+Response: Hello, I'm sorry to hear that you're going through a tough time. If you ever need assistance on anything, please let me know.
+
+CONTEXT: You are a colleague discussing a sensitive topic with your Chinese coworker.
+Colleague: Hello, can we talk about the recent project setback?
+Response: Hello, I understand the importance of addressing this issue. Let's discuss how we can move forward constructively.
+
+CONTEXT: You are a manager giving feedback to a Chinese employee about their presentation skills, which need improvement.
+Employee: Hi, how did I do in the presentation?
+Response: Hello, thank you for your effort in the presentation. There are areas where we can refine the delivery to better engage the audience. Would you like to explore some techniques together?
+
+CONTEXT: You are a supervisor addressing a performance issue with a Chinese subordinate.
+Subordinate: Hi, I hope everything is okay with my work.
+Response: Hello, thank you for checking in. I've noticed some areas where improvements can be made, and I believe we can work together to address them effectively.
+
+CONTEXT: You are a student discussing a group project with your Chinese classmates.
+Classmate: Hi, how do you think we should approach this project?
+Response: Hello, I appreciate your initiative in reaching out. Let's brainstorm together and come up with a plan that leverages everyone's strengths.
+
+CONTEXT: You are a consultant providing feedback to a Chinese client on their business strategy.
+Client: Hello, what are your thoughts on our proposed strategy?
+Response: Hello, I've carefully reviewed your strategy. While there are some strong aspects, there are also opportunities for refinement. Shall we discuss them in more detail?
+
+CONTEXT: You are a teacher speaking to a Chinese student who has been consistently late to class.
+Student: Hello, teacher!
+Response: Hello, I've noticed you've had difficulty arriving on time to class. Is there anything I can do to support you in being punctual?
+
+CONTEXT: You are a manager speaking to a Chinese employee who has been underperforming.
+Manager: Hello, I'd like to discuss your recent performance.
+Response: Hello, I've noticed there have been some challenges in meeting expectations. Let's work together to identify areas for improvement.
+
+CONTEXT: You are a host at a dinner party, speaking to a Chinese guest who hasn't touched their food.
+Guest: Oh, hello!
+Response: Hello, how are you finding the food? Is it to your liking?
+
+CONTEXT: You are a mentor speaking to your Chinese mentee who has been struggling with a project.
+Mentee: Hello, I wanted to check in about my project.
+Response: Hello, how has the project been going for you? Is there anything in particular you would like assistance with?
+
+CONTEXT: You are a customer service representative speaking with a Chinese customer who is dissatisfied with a product.
+Customer: Hello, I'd like to return this item.
+Response: Hello, I'm sorry to hear that you're not satisfied with your purchase. Can you tell me more about what seems to be the issue?
+
+CONTEXT: You are a neighbor speaking with a Chinese neighbor whose dog has been barking loudly late at night.
+Neighbor: Hello!
+Response: Hello. How have you been? How has living with a new pet been like for you?
+
+CONTEXT: You are a team leader addressing a group of Chinese team members who have been falling behind on their project deadlines.
+Team member: Hello.
+Response: Hello. How has the project been progressing for you guys? Are you hitting your goals?
+
+CONTEXT: You are a salesperson speaking with a Chinese client who seems hesitant to make a purchase.
+Client: Hello!
+Response: Hello, would you like some more information on this product? 
+
+CONTEXT: You are a host at a dinner party, speaking with a Chinese guest who hasn't touched their food.
+Guest: Good evening.
+Response: Good evening. How are you enjoying the dinner party? Is the food to your liking?
+
+CONTEXT: You are a project manager addressing a team of Chinese developers whose code has been causing errors.
+Developer: Hi, how's it going?
+Response: Hello. I appreciate your effort on the project. Could we take a look together at this section?
+
+CONTEXT: You are a consultant speaking with a Chinese client who hasn't responded to your proposal.
+Client: Good afternoon.
+Response: Good afternoon. I hope you're doing well. Were you able to review the proposal?
+
+CONTEXT: You are a supervisor speaking with a Chinese intern who has been struggling with their assigned tasks.
+Intern: Hello.
+Response: Hello. How are your tasks going? Would you like some additional support or clarification?
+
+CONTEXT: You are a supervisor addressing a group of Chinese employees about upcoming changes in the company.
+Employee: Hi.
+Response: Hi there. I wanted to inform you about some upcoming changes in the company. Let's discuss how we can adapt and ensure a smooth transition.
+
+CONTEXT: You are a host speaking with a Chinese guest who has arrived early to an event.
+Guest: Good evening.
+Response: Good evening. Thank you for coming early. Is there anything I can assist you with while we wait for others to arrive?
+
+CONTEXT: You are a neighbor addressing an elderly Chinese neighbor who has been hesitant to voice their opinions in community gatherings.
+Neighbor: Hello.
+Response: Hello. How have you been lately? Anything on your mind in particular?
+
+CONTEXT: You are a friend speaking with a Chinese friend who seems stressed but hasn't mentioned the cause.
+Friend: Hey, how are you?
+Response: Hey. Is everything ok? IS there anything I can help out with?
+
+CONTEXT: You are a salesperson speaking with a Chinese customer who seems unsure about the product's quality.
+Customer: Hi, I'm interested in this product, but I have some doubts.
+Response: Hi. I understand it's important to feel confident in your purchase. Is there any specific information or demonstration I can provide to address your concerns?
+
+CONTEXT: You are a teacher speaking with a Chinese student who hasn't been participating actively in class discussions.
+Student: Good morning.
+Response: Good morning. Has everything been going well for you recently? How have you been feeling in class?
+
+CONTEXT: You are a supervisor addressing a Chinese team about a recent project failure.
+Team member: Hi.
+Response: Hi there. Would you like to discuss the outcome of the previous project together?
+
+CONTEXT: You are a colleague speaking with a Chinese coworker who has been missing deadlines.
+Coworker: Hello.
+Response: Hello. Is everything going ok recently? Do you need help with anything?
+
+CONTEXT: You are a friend speaking with a Chinese friend who seems upset but hasn't opened up about the reason.
+Friend: Hey, how's it going?
+Response: Hey there. I'm doing well, how about you? Is there anything on your mind recently?
+
+CONTEXT: You are a salesperson speaking with a Chinese customer who seems interested but hasn't made a decision yet.
+Customer: Hi, I'm considering purchasing this product.
+Response: Hi. I understand it's an important decision. Take your time to evaluate, and feel free to ask any questions you have about the product.
+
+CONTEXT: You are a coworker speaking with a Chinese colleague who has been avoiding social interactions at work.
+Colleague: Hello.
+Response: Hello. How have you been lately? Anything on your mind in particular?
+
+CONTEXT: You are a supervisor addressing a Chinese team about improving communication within the team.
+Team member: Hi.
+Response: Hi there. I wanted to discuss ways we can enhance communication within our team. Let's brainstorm together on how we can improve collaboration and understanding.
+
+CONTEXT: You are a volunteer at a community event, and you notice an elderly Chinese attendee sitting alone.
+Elderly Attendee: Hello.
+Response: Hello there, it's wonderful to see you here. Would you like some company or assistance finding anything?
+
+CONTEXT: You are organizing a community talent show, and you need to ask an older Chinese participant to adjust their performance timing.
+Participant: Hello, are you in charge of the show?
+Response: Hello! Yes, I'm helping to organize the event. Your performance is fantastic! Since we have to vacate the venue by noon, would you be comfortable with slightly shortening your performance?
+
+CONTEXT: You're serving refreshments at a community gathering, and an elderly Chinese attendee seems hesitant to try the new dish.
+Attendee: Hello, what is this dish?
+Response: Hello! This is a traditional dish we've prepared for today's event. It's a bit different from what you might be used to, but many have found it quite enjoyable. Would you like a small taste to see if it suits your palate?
+
+CONTEXT: You're leading a workshop at a community center, and an older Chinese participant appears to be struggling with the material but is not asking for help.
+Participant: Hello, I'm not sure I understand this part.
+Response: Hello! This topic can be a bit tricky, but you're doing well. Let me explain it in a different way, perhaps that will help clarify things for you.
+
+CONTEXT: You're coordinating volunteers for a community cleanup event, and an older Chinese volunteer seems hesitant to take on a certain task.
+Volunteer: Hello, I'm not sure if I'm the best fit for this.
+Response: Hello! Your willingness to help is greatly appreciated. If you're not comfortable with this task, perhaps there's another area where you'd feel more at ease contributing?
+
+CONTEXT: You're introducing a new activity at a community center, and an elderly Chinese attendee seems unsure about participating.
+Attendee: Hello, I'm not sure if I want to join in.
+Response: Hello! It's completely understandable to feel uncertain about trying something new. Perhaps you'd like to observe for a bit and see if it piques your interest?
+
+CONTEXT: You're leading a discussion group at a community center, and an older Chinese participant disagrees with a point but is hesitant to express it directly.
+Participant: Hello, I wonder if there might be another perspective to consider here.
+Response: Hello! I appreciate your input. Different viewpoints enrich our discussion. Would you like to share your thoughts further?
+
+CONTEXT: You're organizing seating arrangements for a community banquet, and an elderly Chinese attendee subtly hints at their preference for where to sit.
+Attendee: Hello, I tend to prefer sitting closer to the back.
+Response: Hello! Thank you for letting me know. I'll make sure to arrange seating accordingly, ensuring your comfort during the event.
+
+CONTEXT: You're facilitating a group activity at a community event, and an older Chinese participant appears uncomfortable with the level of noise but hasn't explicitly mentioned it.
+Participant: Hello, could we perhaps lower the volume a bit?
+Response: Hello! Of course, thank you for bringing that to my attention. I'll make sure we keep the noise level in check so everyone can enjoy the activity comfortably.
