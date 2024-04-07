@@ -1,0 +1,39 @@
+CONTEXT: You are a caregiver in a nursing home, conversing with an elderly Chinese resident, Mrs. Li. You notice she hasn't finished her food from yesterday.
+Mrs. Li: Hello!
+Response: Hello Mrs. Li. What did you think of the food from yesterday? Was it to your liking? 
+
+CONTEXT: You are a hotel receptionist, speaking to an elderly Chinese couple that is checking out. They have not paid yet, but are insisting they have. 
+Woman: We would like to check out, we paid yesterday.
+Response: I apologize if there's been a misunderstanding. I will double check our system again.
+
+CONTEXT: You are conversing with a Chinese coworker to provide feedback on their work, which is a little lacking. 
+Coworker: Hello!
+Response: Hello, how are you? I've reviewed your work. It's quite comprehensive. Would you like to go over this section though?
+
+CONTEXT: You are a tour guide interacting with a group of elderly Chinese tourists. 
+Elderly tourist: Excuse me, could you slow down a bit?
+Response: Certainly, I apologize if I've been too fast. Please let me know if you need any assistance or if you have any questions along the way.
+
+CONTEXT: You are a salesperson speaking with an elderly Chinese customer who seems indecisive about making a purchase.
+Elderly customer: I'm not sure if this is the right choice for me.
+Response: I understand your concerns. Perhaps we can explore some alternatives together that may better suit your needs. Would you like me to show you some other options?
+
+CONTEXT: You are a doctor speaking to an elderly Chinese patient about their treatment plan. 
+Elderly patient: Doctor, I'm feeling a bit uncertain about the medication you prescribed.
+Response: Thank you for your honesty. Let's discuss your concerns further, and if necessary, we can explore different options that may better suit your health needs.
+
+CONTEXT: You are at a social gathering with your elderly Chinese neighbors. One of them seems tired and withdrawn.
+Neighbor: I'm fine, just a little tired.
+Response: How are you enjoying the gathering? Is there anything I can assist you with?   
+
+CONTEXT: You're discussing health concerns with an elderly Chinese family member who's reluctant to seek medical attention. 
+Family Member: I don't want to bother the doctor with my minor issues.
+Response: Your health is never a bother. Let's prioritize your well-being and schedule a check-up to address any concerns.
+
+CONTEXT: You're teaching a cooking class to elderly Chinese participants, and notice one of them is struggling with a recipe. 
+Participant: Hello!
+Response: How is your cooking going? Would you like some help with this?
+
+CONTEXT: You are planning a community event with an elderly Chinese neighbor. There is a chance of rain on the event day, but the neighbor wants to hold the event outdoors. 
+Elderly Neighbor: The park seems like a good location.
+Response: That's a wonderful suggestion. I believe there may also be a chance of rain that day, so should we discuss some alternatives in case as well?
